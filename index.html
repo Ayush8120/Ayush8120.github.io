@@ -22,7 +22,7 @@
   <link rel="stylesheet" href="/assets/css/style.css" />
   <title>Ayush Agrawal | Robotics-Ethology-AI</title>
 
-  <!-- Global site tag (gtag.js) - Google Analytics
+  <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-126939217-2"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -30,9 +30,8 @@
     gtag('js', new Date());
 
     gtag('config', 'UA-126939217-2');
-  </script> -->
-  <script type='text/javascript' src='javascripts/bug-min.js'></script>
-
+  </script>
+  
   <!-- Open Graph-->
   <meta property="og:locale" content="en_US" />
   <meta property="og:type" content="website" />
@@ -73,6 +72,16 @@
 </head>
 
 <body>
+  <script type='text/javascript' src='javascripts/bug-min.js'></script>
+  <script type='text/javascript'>
+    // default fruit fly bug:
+    new BugController({'minBugs':10, 'maxBugs':50, 'mouseOver':'die'
+    });
+
+    // default spiders:
+    new SpiderController({'minBugs':2, 'maxBugs':6
+    });
+  </script>
   <!-- Google Tag Manager (noscript) -->
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PGZH8HT"
   height="0" width="0" style="display:none;visibility:hidden"></iframe>
