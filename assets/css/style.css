@@ -307,14 +307,16 @@ nav i {
   background: #333C42;
   border-radius: 2px;
   padding: 1em;
-  .timeline-content-info {
+}
+.timeline-content-info {
     background: #2B343A;
     padding: 5px 10px;
     color: rgba(255,255,255,0.7);
     font-size: 12px;
     box-shadow:  inset 0 2px 0 rgba(0, 0, 0, 0.08);
     border-radius: 2px;
-    i {
+}
+.timeline-content-info i {
       margin-right: 5px;
     }
     .timeline-content-info-title, .timeline-content-info-date {  
@@ -327,7 +329,9 @@ nav i {
         width:100%;
       } 
     }
-  }
+  
+  
+
   .content-skills {
     font-size: 12px;
     padding:0;
@@ -335,7 +339,8 @@ nav i {
     display:flex;
     flex-wrap: wrap;
     justify-content: center;
-    li {
+  }
+  .content-skills li {
       background: #40484D;
       border-radius: 2px;
       display: inline-block;
@@ -345,8 +350,9 @@ nav i {
       text-align: center;
       flex-grow: 1;
     }
-  }
-}
+  
+  
+
 .cd-timeline-content:after {
   content: "";
   display: table;
