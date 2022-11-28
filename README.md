@@ -70,3 +70,52 @@ To view a live example, **[click here](https://varadbhogayata.github.io/)**
 
 ## License 📄
 This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
+
+        <div class="card">
+          <div class="card-content">
+            <div class="row">
+              <div class="col s12 m2">
+                <img alt="BITS logo" src="/assets/img/bits.jpg" class="responsive-img center-block" />
+
+              </div>
+
+              <!-- <div class="col s12 m10"> -->
+              <div class="col s12 m10">
+                <p>
+                  <span class="card-title"><a href="https://www.bits-pilani.ac.in/" class="teal-text hoverline">BITS
+                      Pilani
+                    </a></span>
+                </p>
+              </div>
+            </div>
+            <div class="role brown-text text-darken-2">Undergraduate Researcher</div>
+            <ul>
+              <li>
+                <b>Guide:</b> Dr. Puneet Mishra
+              </li>
+              <li>
+                <b>Tags:</b> ESP32, AI, Sensors
+              </li>
+              <li>
+                Developement of A Real Time Crop Advisory System Exploiting Nanotechnology Based Nitrogen Sensor With
+                IoF Framework
+              </li>
+              <li>
+                Personally developed an <u>Architecture for soil sensing and visualization using ESP32 and AWS</u>
+              </li>
+              <li>
+                Currently researching <u>AI Algorithms for reducing the effects of interfering input(moisture)</u> on
+                the Nitrogen Sensor readings sensed by this Architecture </li>
+              <li>
+                <b>Tools:</b> ESP32, AWS, Sensors, Google Colab
+              </li>
+            </ul>
+          </div>
+          <div class="card-action">
+            <span>September 2021 - Present | Pilani, India</span>
+          </div>
+        </div>
+
+
+
+      </div>
