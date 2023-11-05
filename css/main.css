@@ -486,3 +486,16 @@ dd {
   color: #1585cf;
   cursor: pointer;
 }
+
+
+
+/*---------------------------------------*/
+.highlighted-text {
+    color: #00003f;
+    background-color: #ff5252; /* Red color for highlight */
+    padding: 10px;
+    font-size: 12px;
+    font-weight: bold;
+    display: inline-block;
+    margin-top: 20px;
+}
